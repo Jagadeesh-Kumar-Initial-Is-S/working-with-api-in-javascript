@@ -20,6 +20,8 @@ async function getUser() {
     let fullName = title + ". " + first + " " + last;
     document.title = fullName;
 
+    // Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@airtel .
+
     // Accessing the div container and modify/add elements to the containers
     document.getElementById("head").innerHTML = fullName;
     document.getElementById("email").href = "mailto:" + email;
@@ -33,6 +35,8 @@ async function getUser() {
     document.querySelector("#location").textContent = city + ", " + state;
 
     document.querySelector("#country").textContent = country;
+
+    // Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@airtel .
 
     // Creating a new element and appending it to previously created containers
     let img = document.createElement("img");

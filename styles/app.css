@@ -3,14 +3,16 @@ html {
     min-height: auto;
     background-color: aquamarine;
     box-shadow: inset 0 0 55rem green;
-	height:auto;
+    height: auto;
 }
+
 .advertisement {
     text-align: center;
     font-size: xx-small;
     color: blueviolet;
 }
 
+/* Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@airtel . */
 .content {
     text-align: center;
     padding: 30px;
@@ -27,8 +29,10 @@ img {
     box-shadow: black;
 }
 
-table, td {
-    border-collapse: collapse ;
+/* Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me and you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@airtel . */
+table,
+td {
+    border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
